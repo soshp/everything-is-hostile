@@ -1,0 +1,15 @@
+@name:enchant
+@prompt:Encantar
+#####
+@name:trade
+@prompt:Comerciar
+Let's trade
+#####
+@name:inventory
+@prompt: Inventario
+This text is not displayed!
+#####
+@name:hello
+@prompt:hola
+Hola aventurero!
+Necesitas algo?
